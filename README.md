@@ -1,6 +1,5 @@
 
-<img src="https://www.canva.com/design/DAGb0oTrltA/KhfO8gd0eGkxmdxmO2nF7g/watch"></>
-
+<p align="center"> <img src="https://www.canva.com/design/DAGb0oTrltA/KhfO8gd0eGkxmdxmO2nF7g/watch"/></p>
 <h1 align="center">Hi 👋, I'm Rosario Alonso</h1>
 <h3 align="center">Web development from Uruguay with background in Biotechonology research</h3>
 
