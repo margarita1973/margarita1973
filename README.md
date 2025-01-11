@@ -1,5 +1,6 @@
 
-<p align="center"> <img src="https://www.canva.com/design/DAGb0oTrltA/KhfO8gd0eGkxmdxmO2nF7g/watch"/></p>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGb0oTrltA&#x2F;KhfO8gd0eGkxmdxmO2nF7g&#x2F;watch?utm_content=DAGb0oTrltA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pink Red Orange Peach Doodle LinkedIn Banner</a> de Ralonso
+<p align="center"> <img src="https://www.canva.com/design/DAGb0oTrltA/KhfO8gd0eGkxmdxmO2nF7g/watch?embed"/></p>
 <h1 align="center">Hi 👋, I'm Rosario Alonso</h1>
 <h3 align="center">Web development from Uruguay with background in Biotechonology research</h3>
 
